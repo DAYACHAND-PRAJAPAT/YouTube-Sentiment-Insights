@@ -34,3 +34,9 @@ http://localhost:5000/predict
 
 
 chrome://extensions
+
+
+
+
+
+524558747924.dkr.ecr.ap-south-1.amazonaws.com/mlproj
